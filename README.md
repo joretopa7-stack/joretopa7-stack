@@ -1,59 +1,63 @@
-# Hey, soy Jorge 👋
+<h1 align="center">🐧 Jorge Torres</h1>
 
-💻 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA.
+<p align="center">
+  <samp>jorge@linux:~$ whoami</samp>
+</p>
 
-Me gusta programar, resolver problemas y entender cómo funcionan las cosas detrás del código. Estoy enfocado en el desarrollo backend y en mejorar mis habilidades construyendo proyectos.
+<p align="center">
+  <b>Aprendiz ADSO · Backend Developer en formación</b>
+</p>
 
-🐧 **Linux es mi lugar favorito para trabajar.** Me gusta explorar el sistema, moverme por la terminal y descubrir nuevas herramientas.
-
-🐳 Actualmente estoy aprendiendo Docker y cómo utilizar contenedores para ejecutar aplicaciones de una forma más organizada.
-
----
-
-## 🛠️ Mi entorno de trabajo
-
-**Lenguajes y backend**
-
-- Python · JavaScript
-- FastAPI · Flask · Node.js · Express
-
-**Bases de datos**
-
-- MySQL · PostgreSQL · SQLite
-
-**Herramientas**
-
-- Linux · Git · GitHub
-- Docker (aprendiendo)
-- Postman · Pytest
+<p align="center">
+  Linux • Backend • Open Source • Docker
+</p>
 
 ---
 
-## 🚀 Algunos proyectos
+### 💻 $ whoami
 
-🔹 **Quality Orders**  
-Práctica de lógica de negocio, validaciones y pruebas automatizadas.
+Soy Jorge, aprendiz de Análisis y Desarrollo de Software en el SENA.
 
-🔹 **Reservation Testing Lab**  
-Un espacio para aprender y practicar pruebas de software.
+Me gusta programar, experimentar y entender cómo funcionan las cosas detrás del código. Linux se ha convertido en mi entorno favorito para explorar, aprender y trabajar desde la terminal.
 
-🔹 **FastAPI Testing**  
-Pruebas y validaciones para una API desarrollada con Python.
+Actualmente estoy fortaleciendo mis conocimientos de backend, pruebas de software y Docker.
 
-🔹 **Intro Express**  
-Mis prácticas con Node.js y Express.
+### 🐧 $ neofetch
 
----
+```text
+OS         : Pop!_OS / Linux
+Focus      : Backend development
+Languages  : Python, JavaScript
+Databases  : MySQL, PostgreSQL, SQLite
+Tools      : Git, GitHub, Pytest, Postman
+Learning   : Docker
+```
 
-## 🌱 En lo que estoy trabajando
+### ⚙️ $ ls ~/projects
 
-- Mejorar mis habilidades como desarrollador backend.
-- Aprender Docker y la contenerización.
-- Seguir explorando Linux y sus herramientas.
-- Escribir mejores pruebas y código más mantenible.
+- [quality-orders](https://github.com/joretopa7-stack/quality-orders)
+- [reservation-testing-lab](https://github.com/joretopa7-stack/reservation-testing-lab)
+- [FastAPI Testing](https://github.com/joretopa7-stack/pruebas-de-software-fast-api-Jorge-Alejandro-Torres-Paez_3407180)
+- [INTRO_EXPRESS](https://github.com/joretopa7-stack/INTRO_EXPRESS)
 
----
+### 🚧 $ cat learning.log
 
-*Aprendiendo, experimentando y mejorando un poco cada día.*
+- Explorando Linux y sus herramientas.
+- Mejorando mis habilidades de desarrollo backend.
+- Aprendiendo Docker y contenedores.
+- Practicando pruebas automatizadas.
+- Construyendo proyectos para aprender haciendo.
 
-🐧 Linux enthusiast | 💻 Backend development | 🐳 Docker in progress
+### 🖥️ $ exit
+
+```bash
+while true; do
+    learn
+    build
+    improve
+done
+```
+
+<p align="center">
+  <samp>jorge@linux:~$ _</samp>
+</p>
