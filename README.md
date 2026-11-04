@@ -1,142 +1,181 @@
-<!--
-  JORGE TORRES | GitHub Profile
-  Linux · Backend · DevOps · Cybersecurity
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:07130D,50:0B2E1B,100:07130D&text=JORGE%20TORRES&fontColor=7CFC98&fontSize=55&fontAlignY=45&desc=LINUX%20%7C%20BACKEND%20%7C%20DEVOPS%20%7C%20CYBERSECURITY&descAlignY=70&descSize=13&animation=fadeIn" width="100%"/>
+# `jorge@linux`
 
-<br/>
+<samp>Aprendiz ADSO · Linux Enthusiast · Backend Developer en formación</samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7CFC98&center=true&vCenter=true&width=650&lines=jorge%40linux%3A~%24+whoami;Linux+Enthusiast;Backend+Developer+in+Formation;Future+DevOps+Engineer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
-
-**Aprendiz de Análisis y Desarrollo de Software · SENA**
-
-`Linux` · `Backend` · `DevOps` · `Cybersecurity` · `Open Source`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-joretopa7--stack-111111?style=for-the-badge&logo=github&logoColor=7CFC98)](https://github.com/joretopa7-stack)
+**Construyendo mi camino hacia DevOps y la ciberseguridad.**
 
 </div>
 
 ---
 
-## `01` — $ whoami
+## `01 — SYSTEM INFORMATION`
+
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+```text
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/osssss+
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
+
+</td>
+<td width="50%" valign="middle">
 
 ```bash
-jorge@linux:~$ whoami
-Jorge Torres
+jorge@linux
+------------------------
+OS        : Pop!_OS
+Kernel    : Linux
+Shell     : Bash
+Editor    : VS Code
+Languages : Python / JS
+Backend   : FastAPI / Express
+Database  : PostgreSQL
+Tools     : Git / Docker
+Focus     : Backend
+Interests : DevOps
+            Cybersecurity
+Country   : Colombia
+Status    : Learning
+```
 
-jorge@linux:~$ cat about.txt
+</td>
+</tr>
+</table>
+
+---
+
+## `02 — ABOUT ME`
+
+```bash
+[jorge@linux ~]$ whoami
 ```
 
 Soy Jorge, aprendiz de **Análisis y Desarrollo de Software en el SENA**, Colombia.
 
-Me interesa entender cómo funciona la tecnología más allá de lo que vemos en pantalla. Disfruto trabajar con Linux, explorar la terminal, desarrollar soluciones backend y experimentar con herramientas que me permitan comprender mejor los sistemas.
+Me gusta explorar Linux, trabajar desde la terminal, entender cómo funcionan los sistemas y construir soluciones mediante código.
 
-Actualmente estoy fortaleciendo mis fundamentos de programación, bases de datos, pruebas de software y administración de entornos de desarrollo.
+Linux se ha convertido en uno de mis entornos favoritos para aprender, experimentar, resolver problemas y descubrir cómo funciona la tecnología desde sus fundamentos.
 
-Tengo una dirección clara: crecer como desarrollador, profundizar en infraestructura y automatización, y construir mi camino hacia **DevOps y la ciberseguridad**.
+Actualmente estoy fortaleciendo mis conocimientos en:
 
-No pretendo saberlo todo. Prefiero aprender, experimentar, equivocarme y entender cómo funcionan realmente las cosas.
+- Desarrollo backend y APIs REST.
+- Python y JavaScript.
+- Bases de datos relacionales.
+- Pruebas automatizadas y calidad de software.
+- Linux, terminal y administración de sistemas.
+- Docker y contenedores.
+
+**Mi objetivo:** convertirme en ingeniero DevOps, profundizar en infraestructura y automatización, y desarrollar conocimientos sólidos en ciberseguridad.
+
+No pretendo saberlo todo. Quiero entender cómo funcionan las cosas y aprender a construirlas correctamente.
 
 ---
 
-## `02` — $ neofetch
+## `03 — TECHNOLOGY STACK`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joretopa7-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC98&icon_color=7CFC98&text_color=C9D1D9&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joretopa7-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC98&text_color=C9D1D9" width="40%"/>
-
-</div>
-
-```text
-USER       : Jorge Torres
-OS         : Pop!_OS / Linux
-SHELL      : Bash
-EDITOR     : Visual Studio Code
-LANGUAGES  : Python / JavaScript
-DATABASES  : PostgreSQL / MySQL / SQLite
-TOOLS      : Git / GitHub / Postman / Pytest
-FOCUS      : Backend Development
-EXPLORING  : Linux / Docker / Infrastructure
-INTERESTS  : DevOps / Cybersecurity
-LOCATION   : Colombia
-STATUS     : Always learning
+```bash
+[jorge@linux ~]$ ls ~/technology
 ```
 
----
-
-## `03` — $ tech --stack
-
-### Lenguajes
+**Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
 </p>
 
-### Backend & APIs
+**Backend & APIs**
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
 </p>
 
-### Bases de datos
+**Databases**
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 </p>
 
-### Sistemas, infraestructura y herramientas
+**Operating Systems & Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman&theme=dark" />
 </p>
 
-> Algunas herramientas forman parte de mi aprendizaje actual; no todas representan experiencia profesional o dominio avanzado.
-
 ---
 
-## `04` — $ ls ~/projects
+## `04 — FILE SYSTEM / PROJECTS`
 
-Proyectos en los que he trabajado y que forman parte de mi proceso de aprendizaje.
+```bash
+[jorge@linux ~]$ tree ~/projects
+```
 
-| Proyecto | Descripción |
+```text
+projects/
+│
+├── quality-orders/
+│
+├── reservation-testing-lab/
+│
+├── FastAPI-Testing/
+│
+└── INTRO_EXPRESS/
+```
+
+| Repository | Description |
 |:--|:--|
-| [quality-orders](https://github.com/joretopa7-stack/quality-orders) | Calidad y pruebas de software. |
-| [reservation-testing-lab](https://github.com/joretopa7-stack/reservation-testing-lab) | Pruebas y validación de sistemas. |
-| [FastAPI Testing](https://github.com/joretopa7-stack/pruebas-de-software-fast-api-Jorge-Alejandro-Torres-Paez_3407180) | Pruebas automatizadas con FastAPI. |
-| [INTRO_EXPRESS](https://github.com/joretopa7-stack/INTRO_EXPRESS) | Introducción al desarrollo backend con Express. |
+| [quality-orders](https://github.com/joretopa7-stack/quality-orders) | Calidad y pruebas de software |
+| [reservation-testing-lab](https://github.com/joretopa7-stack/reservation-testing-lab) | Testing y validación |
+| [FastAPI Testing](https://github.com/joretopa7-stack/pruebas-de-software-fast-api-Jorge-Alejandro-Torres-Paez_3407180) | Pruebas automatizadas con FastAPI |
+| [INTRO_EXPRESS](https://github.com/joretopa7-stack/INTRO_EXPRESS) | Desarrollo backend con Express |
 
 ---
 
-## `05` — $ cat roadmap.md
+## `05 — LEARNING ROADMAP`
 
-Mi ruta de aprendizaje y crecimiento técnico.
+```bash
+[jorge@linux ~]$ cat ~/roadmap.txt
+```
 
 ```text
 LINUX & SYSTEMS
 ├── Terminal y comandos Linux
-├── Bash y automatización
+├── Bash
 └── Administración de sistemas
 
 BACKEND DEVELOPMENT
 ├── Python
 ├── JavaScript
-├── APIs REST
+├── REST APIs
 └── Bases de datos
 
-SOFTWARE QUALITY
+SOFTWARE TESTING
 ├── Pytest
 ├── Pruebas unitarias
 └── Pruebas de integración
 
 DEVOPS & INFRASTRUCTURE
-├── Docker y contenedores
+├── Docker
 ├── CI/CD
 ├── Cloud Computing
 └── Infrastructure as Code
@@ -150,17 +189,41 @@ CYBERSECURITY
 
 ---
 
-## `06` — $ cat philosophy.txt
+## `06 — GITHUB STATISTICS`
+
+```bash
+[jorge@linux ~]$ git status
+```
 
 <div align="center">
 
-### Aprender cómo funcionan los sistemas.
-### No solamente aprender a utilizarlos.
+<img src="https://github-readme-stats.vercel.app/api?username=joretopa7-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D7FF&icon_color=00D7FF&text_color=C9D1D9&rank_icon=github" width="95%" />
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joretopa7-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D7FF&text_color=C9D1D9" width="60%" />
+
+</div>
+
+---
+
+## `07 — PHILOSOPHY`
+
 ```bash
-#!/bin/bash
+[jorge@linux ~]$ cat philosophy.txt
+```
+
+```text
+Understand the system.
+Learn how things work.
+Build useful solutions.
+Automate repetitive tasks.
+Secure what you create.
+Never stop improving.
+```
+
+```bash
+#!/usr/bin/env bash
 
 while true; do
     learn
@@ -172,25 +235,19 @@ while true; do
 done
 ```
 
-**LEARN. BUILD. SECURE. DEPLOY.**
-
-</div>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07130D,100:0B2E1B&height=3&section=footer" width="100%"/>
+### LEARN · BUILD · SECURE · AUTOMATE
 
-```text
-jorge@linux:~$ echo "El camino continúa..."
-El camino continúa...
+```bash
+[jorge@linux ~]$ echo "El camino continúa..."
+El camino continúa.
 ```
 
-<sub>Linux · Backend · DevOps · Cybersecurity · Open Source</sub>
+<samp>Linux enthusiast. Always learning. Always building.</samp>
 
 <br/>
 
-<sub>Construyendo conocimiento, una línea de código a la vez.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D7FF,50:00FF88,100:00D7FF&section=footer" width="100%"/>
 
 </div>
