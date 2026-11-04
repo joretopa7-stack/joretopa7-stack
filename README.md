@@ -19,25 +19,33 @@
 <td width="50%" valign="middle">
 
 ```text
-                   -`
-                  .o+`
-                 `ooo/
-                `+oooo:
-               `+oooooo:
-               -+oooooo+:
-             `/:-:++oooo+:
-            `/++++/+++++++:
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+                  '""""""""^AYYYObqqqq____,
+                        '"""^Y88qq__
+                   __________________"Y8p
+__,oOOYYY""""""""""""""""""""""YY/b
+. `""""`             _pppp888880,          . `:
+               _pp88PY""""           8p,       `:-
+           _pdP""""                  _888qqqqqq___`~_
+        _oY""                      n88P""""""Y888qp_|Y_
+     .""                         _88"            "888qq,
+                                _88"                 "888qq,
+                                d8"                    "888_
+                                :88                     "Y8q_
+                                '88,                       "p"
+                                88q,
+                                88q,
+                                088_,
+                                 "888qq_____
+                                   ""Y888888888888qpq__,
+                                         ""^88q/YOq_
+                                            "Yq_ "Oq,
+                                               'Oq, 'O_
+                                                 "q, "(
+                                                  "b  )
+                                                   ),
+                                                    \
+                                                    |
+                                                    '
 ```
 
 </td>
