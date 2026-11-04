@@ -140,7 +140,9 @@ projects/
 ├── quality-orders/
 ├── reservation-testing-lab/
 ├── FastAPI-Testing/
-└── INTRO_EXPRESS/
+├──INTRO_EXPRESS/
+├──taller_DOM_React/
+└──test_fastapi_productos_y_categorias/
 ```
 
 | Repository | Description |
@@ -149,6 +151,8 @@ projects/
 | [reservation-testing-lab](https://github.com/joretopa7-stack/reservation-testing-lab) | Testing y validación |
 | [FastAPI Testing](https://github.com/joretopa7-stack/pruebas-de-software-fast-api-Jorge-Alejandro-Torres-Paez_3407180) | Pruebas automatizadas con FastAPI |
 | [INTRO_EXPRESS](https://github.com/joretopa7-stack/INTRO_EXPRESS) | Desarrollo backend con Express |
+| [taller_DOM_React](https://github.com/joretopa7-stack/taller_DOM_React.git) | Desarrollo de interfaces web y móviles mediante manipulación del DOM, gestión de eventos y estados con JavaScript y React Native.|
+| [test_fastapi_productos_y_categorias](https://github.com/joretopa7-stack/test_fastapi_productos_y_categorias.git) |Calidad, pruebas de software y documentacion tecnica|
 
 ---
 
