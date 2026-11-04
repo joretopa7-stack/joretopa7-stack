@@ -194,11 +194,10 @@ CYBERSECURITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joretopa7-stack&show_icons=true&hide_border=true&bg_color=050B10&title_color=00E5FF&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" width="95%"/>
+
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joretopa7-stack&layout=compact&hide_border=true&bg_color=050B10&title_color=00E5FF&text_color=C9D1D9" width="60%"/>
 
 <br/>
 
