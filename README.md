@@ -1,16 +1,18 @@
 <div align="center">
 
-# `jorge@linux`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,40:071D29,75:003B36,100:050505&text=JORGE%40LINUX&fontColor=00E5FF&fontSize=55&fontAlignY=42&desc=LINUX%20%7C%20BACKEND%20%7C%20DEVOPS%20%7C%20CYBERSECURITY&descAlignY=68&descSize=13&animation=twinkling"/>
 
-<samp>Aprendiz ADSO · Linux Enthusiast · Backend Developer en formación</samp>
+<br/>
 
-**Construyendo mi camino hacia DevOps y la ciberseguridad.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=%5Bjorge%40linux+~%5D%24+whoami;Linux+Enthusiast;Backend+Developer+en+formaci%C3%B3n;Construyendo+mi+camino+hacia+DevOps;Cybersecurity+Enthusiast;Learn.+Build.+Secure.+Automate." />
+
+**Aprendiz de Análisis y Desarrollo de Software · SENA**
 
 </div>
 
 ---
 
-## `01 — SYSTEM INFORMATION`
+## <img src="https://img.shields.io/badge/01-SYSTEM_INFORMATION-00D7FF?style=flat-square" />
 
 <table>
 <tr>
@@ -28,7 +30,7 @@
            `/++++++++++++++:
           `/+++ooooooooooooo/`
          ./ooosssso++osssssso+`
-        .oossssso-````/osssss+
+        .oossssso-````/ossssss+
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
      /ossssssss/        +ssssooo/-
@@ -65,7 +67,7 @@ Status    : Learning
 
 ---
 
-## `02 — ABOUT ME`
+## <img src="https://img.shields.io/badge/02-SOBRE_MÍ-00FF88?style=flat-square" />
 
 ```bash
 [jorge@linux ~]$ whoami
@@ -88,43 +90,37 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 **Mi objetivo:** convertirme en ingeniero DevOps, profundizar en infraestructura y automatización, y desarrollar conocimientos sólidos en ciberseguridad.
 
-No pretendo saberlo todo. Quiero entender cómo funcionan las cosas y aprender a construirlas correctamente.
-
 ---
 
-## `03 — TECHNOLOGY STACK`
-
-```bash
-[jorge@linux ~]$ ls ~/technology
-```
+## <img src="https://img.shields.io/badge/03-TECHNOLOGY_STACK-00D7FF?style=flat-square" />
 
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
 </p>
 
 **Backend & APIs**
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark"/>
 </p>
 
 **Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark"/>
 </p>
 
 **Operating Systems & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman&theme=dark"/>
 </p>
 
 ---
 
-## `04 — FILE SYSTEM / PROJECTS`
+## <img src="https://img.shields.io/badge/04-PROJECTS-00FF88?style=flat-square" />
 
 ```bash
 [jorge@linux ~]$ tree ~/projects
@@ -134,11 +130,8 @@ No pretendo saberlo todo. Quiero entender cómo funcionan las cosas y aprender a
 projects/
 │
 ├── quality-orders/
-│
 ├── reservation-testing-lab/
-│
 ├── FastAPI-Testing/
-│
 └── INTRO_EXPRESS/
 ```
 
@@ -151,7 +144,7 @@ projects/
 
 ---
 
-## `05 — LEARNING ROADMAP`
+## <img src="https://img.shields.io/badge/05-LEARNING_ROADMAP-00D7FF?style=flat-square" />
 
 ```bash
 [jorge@linux ~]$ cat ~/roadmap.txt
@@ -189,38 +182,41 @@ CYBERSECURITY
 
 ---
 
-## `06 — GITHUB STATISTICS`
-
-```bash
-[jorge@linux ~]$ git status
-```
+## <img src="https://img.shields.io/badge/06-GITHUB_STATISTICS-00FF88?style=flat-square" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joretopa7-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D7FF&icon_color=00D7FF&text_color=C9D1D9&rank_icon=github" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joretopa7-stack&show_icons=true&hide_border=true&bg_color=050B10&title_color=00E5FF&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" width="95%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joretopa7-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D7FF&text_color=C9D1D9" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joretopa7-stack&layout=compact&hide_border=true&bg_color=050B10&title_color=00E5FF&text_color=C9D1D9" width="60%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=joretopa7-stack&theme=dark&hide_border=true&background=050B10&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF" width="95%"/>
 
 </div>
 
 ---
 
-## `07 — PHILOSOPHY`
+## <img src="https://img.shields.io/badge/07-PHILOSOPHY-00D7FF?style=flat-square" />
 
-```bash
-[jorge@linux ~]$ cat philosophy.txt
-```
+<div align="center">
 
-```text
-Understand the system.
-Learn how things work.
-Build useful solutions.
-Automate repetitive tasks.
-Secure what you create.
-Never stop improving.
-```
+> **Understand the system.**
+>
+> Learn how things work.
+>
+> Build useful solutions.
+>
+> Automate repetitive tasks.
+>
+> Secure what you create.
+>
+> Never stop improving.
+
+</div>
 
 ```bash
 #!/usr/bin/env bash
@@ -237,17 +233,8 @@ done
 
 <div align="center">
 
-### LEARN · BUILD · SECURE · AUTOMATE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+SECURE;AUTOMATE+%E2%80%A2+REPEAT;El+camino+contin%C3%BAa..." />
 
-```bash
-[jorge@linux ~]$ echo "El camino continúa..."
-El camino continúa.
-```
-
-<samp>Linux enthusiast. Always learning. Always building.</samp>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D7FF,50:00FF88,100:00D7FF&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B36,100:071D29&height=100&section=footer"/>
 
 </div>
